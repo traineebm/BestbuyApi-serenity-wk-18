@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test for products","This will create a new product","SUCCESS","2022-06-05T22:28:14.162+01:00[Europe/London]","0.0","0.06"
+"CRUD test for products","Verify if the product was added","SUCCESS","2022-06-05T22:28:14.225+01:00[Europe/London]","0.0","0.91"
+"CRUD test for products","Update the product information and verify the updated information","SUCCESS","2022-06-05T22:28:15.139+01:00[Europe/London]","0.0","0.21"
+"CRUD test for products","Delete the product and verify if the product is deleted!","SUCCESS","2022-06-05T22:28:15.346+01:00[Europe/London]","0.0","0.03"

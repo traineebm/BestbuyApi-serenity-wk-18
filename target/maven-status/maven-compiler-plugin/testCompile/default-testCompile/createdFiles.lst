@@ -1,0 +1,9 @@
+com\bestbuy\allusersinfo\CRUDTestForStores.class
+com\bestbuy\testbase\TestBaseCategories.class
+com\bestbuy\testbase\TestBaseServices.class
+com\bestbuy\allusersinfo\CRUDTestForProducts.class
+com\bestbuy\allusersinfo\CRUDTestForServices.class
+com\bestbuy\testbase\TestBaseProducts.class
+com\bestbuy\AppTest.class
+com\bestbuy\testbase\TestBaseStores.class
+com\bestbuy\allusersinfo\CRUDTestForCategories.class

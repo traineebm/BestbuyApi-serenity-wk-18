@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test for stores","This will create new store","SUCCESS","2022-06-05T22:28:15.643+01:00[Europe/London]","0.0","0.04"
+"CRUD test for stores","Verify if the store was created in application","SUCCESS","2022-06-05T22:28:15.680+01:00[Europe/London]","0.0","0.06"
+"CRUD test for stores","Update store information and verify the updated information","SUCCESS","2022-06-05T22:28:15.739+01:00[Europe/London]","0.0","0.09"
+"CRUD test for stores","Delete store and verify if the product is deleted","SUCCESS","2022-06-05T22:28:15.831+01:00[Europe/London]","0.0","0.03"
